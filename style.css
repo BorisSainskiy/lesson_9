@@ -241,4 +241,81 @@ article > p > a {
     line-height: 36px;
     opacity: 0.3;
 }
-/*165*/
+#cuisines {
+    width: 100%;
+    height: 3541px;
+    text-align: center;
+}
+
+#cuisines > div > h1 {
+    margin: 0px;
+    width: 215px;
+    height: 14px;
+    color: #000000;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    text-transform: uppercase;
+    letter-spacing: 0.9px;
+}
+
+#cuisines > #title {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    margin-bottom: 40px;
+}
+
+#mills {
+    width: 100%;
+    height: 450px;
+}
+
+#mills > div {
+    width: 20%;
+    height: 225px;
+    float: left;
+    color: #ffffff;
+}
+
+#ITALIAN {
+    background-image: url(./img/Layer_6.png);
+}
+
+#INDIAN {
+    background-image: url(./img/Layer_7.png);
+}
+
+#FRENCH {
+    background-image: url(./img/Layer_8.png);
+}
+
+#STEAKHOUSE {
+    background-image: url(./img/Layer_9.png);
+}
+
+#SEAFOOD {
+    background-image: url(./img/Layer_10.png);
+}
+
+#SUSHI {
+    background-image: url(./img/Layer_11.png);
+}
+
+#MEXICAN {
+    background-image: url(./img/Layer_12.png);
+}
+
+#CHINESE {
+    background-image: url(./img/Layer_13.png);
+}
+
+#PIZZA {
+    background-image: url(./img/Layer_14.png);
+}
+
+#AMERICAN {
+    background-image: url(./img/Layer_15.png);
+}
